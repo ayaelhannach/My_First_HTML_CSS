@@ -1,2 +1,0 @@
-alert("hyyyyyyy");
-alert("helllloooo");
